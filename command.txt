@@ -1,0 +1,6 @@
+git clone git@github.com:Abdulkalam98/Amazon.git
+cd dir 
+git add --all
+git status
+git branch -M main
+git push -u origin main
